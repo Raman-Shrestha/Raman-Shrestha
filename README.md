@@ -2,7 +2,7 @@
 
 I am **Raman Shrestha**, a newcomer to the field of web development. Currently, I'm on an exciting journey of learning the foundational languages of the web, which include HTML, CSS, and JavaScript. I'm laying a strong foundation to explore this vast field. As a beginner, I'm eager to grasp the core concepts and explore deeper into the web's possibilities.
 
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning CSS
 - 📫 How to reach me: shrestha_raman@outlook.com
 
 ## Learning Resources
